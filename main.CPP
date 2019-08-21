@@ -1,3 +1,4 @@
+//this is a quizzing platform
 
 #include<iostream.h>
 #include<conio.h>
